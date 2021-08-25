@@ -3206,10 +3206,10 @@ define-property@^2.0.2:
     is-descriptor "^1.0.2"
     isobject "^3.0.1"
 
-defu@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/defu/-/defu-5.0.0.tgz#5768f0d402a555bfc4c267246b20f82ce8b5a10b"
-  integrity sha512-VHg73EDeRXlu7oYWRmmrNp/nl7QkdXUxkQQKig0Zk8daNmm84AbGoC8Be6/VVLJEKxn12hR0UBmz8O+xQiAPKQ==
+defu@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/defu/-/defu-4.0.1.tgz#9d7d7a48f9295f08285d153dcff174c89b9bcb22"
+  integrity sha512-lC+G0KvvWRbisQa50+iFelm3/eMmwo4IlBmfASOVlw9MZpHHyQeVsZxc5j23+TQy5ydgEoTVSrWl7ptou1kzJQ==
 
 delayed-stream@~1.0.0:
   version "1.0.0"
@@ -4505,13 +4505,13 @@ gridsome-plugin-gtm@^0.1.1:
   dependencies:
     vue-gtm "^2.0.0"
 
-gridsome-plugin-windicss@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/gridsome-plugin-windicss/-/gridsome-plugin-windicss-1.0.3.tgz#6201520a5ee7b6d2ed273ab46478de2874d30a27"
-  integrity sha512-MLIQkLiaKqWyv/B//uR86VR7GsCtL08gmYG9EzH3Jjuu3v8TG4g+7YYJJYNpSgR2lFJ+3MYArlDXaB0YbP28cA==
+gridsome-plugin-windicss@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/gridsome-plugin-windicss/-/gridsome-plugin-windicss-1.0.2.tgz#4dd608302558a4794bbbfde08b360ca22ad2268c"
+  integrity sha512-Jpql0V2lXy+qw0HnhBlEo7a+BSBYgb+kRIAfO5sj5WWgwLHxa/SbUv0Cued30kf0lOx+9jPayCbaDgPl7tDfYA==
   dependencies:
-    defu "^5.0.0"
-    windicss-webpack-plugin "^1.4.6"
+    defu "^4.0.1"
+    windicss-webpack-plugin "^1.1.0"
 
 gridsome@^0.7.0:
   version "0.7.23"
@@ -9941,7 +9941,7 @@ widest-line@^3.1.0:
   dependencies:
     string-width "^4.0.0"
 
-windicss-webpack-plugin@^1.4.6:
+windicss-webpack-plugin@^1.1.0:
   version "1.4.6"
   resolved "https://registry.yarnpkg.com/windicss-webpack-plugin/-/windicss-webpack-plugin-1.4.6.tgz#dd8151b0b57b8c7811ff3671951a7ea7af97c214"
   integrity sha512-ynr1dRN+701/frxpEUnLRMF2UndNdCrKapMRB+swuMhgfZVswjgRuKjmOyfoyHvM59RZf2qgSjdRwgfBaIeXJQ==
