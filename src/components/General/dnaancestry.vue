@@ -2,20 +2,20 @@
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
       <h1 class="text-2xl text-white">
-        French Deportations
+        Ancestry DNA kits
       </h1>
 
       <g-image
         class="h-32 w-full object-fill"
-        src="@/images/europe/memorial-de-la-shoah.jpg"
-        alt="image of Memorial de la shoah"
+        src="https://res.cloudinary.com/dzhbfdfa5/image/upload/v1629915847/ancestrydna_zx26ad.bmp"
+        alt="image of ancestry dna logo"
       />
       <br />
-      <p>Search Memorial <br />de la shoah<br />deportation records.</p>
+      <p>Ancestry DNA Kits.</p>
       <br />
       <g-link
         class="text-white hover:text-yellow-500"
-        to="https://bit.ly/3fjLI8E"
+        to="https://bit.ly/3zhhBJm"
       >
         More Info
       </g-link>

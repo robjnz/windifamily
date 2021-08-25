@@ -26,6 +26,7 @@
       </div>
 
       <div class="grid sm:flex">
+        <remember />
         <ushmm />
          <yad />
       </div>
@@ -62,6 +63,8 @@ import holocaust from "@/components/Shoah/holocaust";
 import tracing from "@/components/Shoah/tracing";
 import ushmm from "@/components/Shoah/ushmm";
 import yad from "@/components/Shoah/yad";
+import remember from "@/components/Shoah/remember";
+
 
 import dropdown from "@/components/Dropdown/dropdown";
 
@@ -84,6 +87,7 @@ export default {
     tracing,
     ushmm,
     yad,
+    remember,
     dropdown,
   },
 };

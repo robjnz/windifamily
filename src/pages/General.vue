@@ -47,6 +47,13 @@
         <br />
 
         <h1 class="ml-8 mt-3 sub-title">
+          DNA Testing
+        </h1>
+        <div class="grid sm:flex">
+          <dnaancestry />
+        </div>
+
+        <h1 class="ml-8 mt-3 sub-title">
           Resourses
         </h1>
 
@@ -95,6 +102,8 @@ import transkribus from "@/components/General/transkribus";
 import heritage from "@/components/General/heritage";
 import prisoners from "@/components/General/prisoners";
 import jri from "@/components/General/jri";
+import dnaancestry from "@/components/General/dnaancestry";
+
 
 import date from "@/components/General/date";
 
@@ -135,6 +144,7 @@ export default {
     dropdown,
     translate,
     jri,
+    dnaancestry,
     date,
   },
 };

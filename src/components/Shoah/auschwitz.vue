@@ -11,7 +11,7 @@
         alt="image of Auchwits front gate"
       />
       <br />
-      <p>search Auschwitz prisoners database.</p>
+      <p>search Auschwitz <br />prisoners database.</p>
       <br />
       <g-link
         class="text-white hover:text-yellow-500"
