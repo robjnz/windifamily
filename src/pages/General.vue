@@ -51,6 +51,13 @@
         </h1>
         <div class="grid sm:flex">
           <dnaancestry />
+          <dnafamily />
+          <dnaliving />
+        </div>
+
+        <div class="grid sm:flex">
+          <dnamyheritage />
+          <dname />
         </div>
 
         <h1 class="ml-8 mt-3 sub-title">
@@ -61,12 +68,12 @@
           <ahnenblatt />
           <date />
           <cyrillic />
-          </div>
+        </div>
         <div class="grid sm:flex">
           <print />
           <hebrew />
           <shtetl />
-          </div>
+        </div>
         <div class="grid sm:flex">
           <transkribus />
         </div>
@@ -103,13 +110,15 @@ import heritage from "@/components/General/heritage";
 import prisoners from "@/components/General/prisoners";
 import jri from "@/components/General/jri";
 import dnaancestry from "@/components/General/dnaancestry";
-
+import dnamyheritage from "@/components/General/dnamyheritage";
+import dnaliving from "@/components/General/dnaliving";
+import dnafamily from "@/components/General/dnafamily";
+import dname from "@/components/General/dname";
 
 import date from "@/components/General/date";
 
 import dropdown from "@/components/Dropdown/dropdown";
 import translate from "@/components/Dropdown/translate";
-
 
 export default {
   metaInfo: {
@@ -145,6 +154,10 @@ export default {
     translate,
     jri,
     dnaancestry,
+    dnamyheritage,
+    dnaliving,
+    dnafamily,
+    dname,
     date,
   },
 };

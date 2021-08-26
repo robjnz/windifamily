@@ -2,7 +2,7 @@
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
       <h1 class="text-2xl text-white">
-        Ancestry DNA kits
+        Ancestry 
       </h1>
 
       <g-image
@@ -11,7 +11,7 @@
         alt="image of ancestry dna logo"
       />
       <br />
-      <p>Ancestry DNA Kits.</p>
+      <p>Ancestry <br />DNA Kits.</p>
       <br />
       <g-link
         class="text-white hover:text-yellow-500"
