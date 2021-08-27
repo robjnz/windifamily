@@ -16,8 +16,17 @@
           <naturalization />
           <marriage />
         </div>
-
         <br />
+        <h1 class="ml-8 mt-3 sub-title">
+          Youtube video makers to follow
+        </h1>
+        <div class="border-b-4 border-gray-200"></div>
+        <br />
+        <div class="grid sm:flex">
+          <genea />
+          <lisa />
+          <tv />
+        </div>
 
         <dropdown />
         <translate />
@@ -34,6 +43,10 @@ import naturalization from "@/components/Video/naturalization";
 import burial from "@/components/Video/burial";
 import oneninetwo from "@/components/Video/oneninetwo";
 import company from "@/components/Video/company";
+import genea from "@/components/Video/other/genea";
+import tv from "@/components/Video/other/tv";
+import lisa from "@/components/Video/other/lisa";
+
 import dropdown from "@/components/Dropdown/dropdown";
 import translate from "@/components/Dropdown/translate";
 
@@ -55,6 +68,9 @@ export default {
     dropdown,
     translate,
     company,
+    genea,
+    tv,
+    lisa,
   },
 };
 </script>

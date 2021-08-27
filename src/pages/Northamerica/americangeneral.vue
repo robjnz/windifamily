@@ -13,7 +13,12 @@
 
         <div class="grid sm:flex">
           <intelius />
+          <step />
           <state />
+          
+        </div>
+
+        <div class="grid sm:flex">
           <war />
         </div>
 
@@ -74,6 +79,7 @@ import ellis from "@/components/America/General/ellis";
 import york from "@/components/America/General/york";
 import marriage from "@/components/America/General/marriage";
 import intelius from "@/components/America/General/intelius";
+import step from "@/components/America/General/step";
 
 
 import dropdown from "@/components/Dropdown/dropdown";
@@ -99,6 +105,7 @@ export default {
     york,
     marriage,
     intelius,
+    step,
 
     dropdown,
   },
