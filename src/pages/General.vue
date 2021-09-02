@@ -40,6 +40,7 @@
         <div class="grid sm:flex">
           <jri />
           <roots />
+          <mate />
         </div>
 
         <br />
@@ -114,6 +115,7 @@ import dnamyheritage from "@/components/General/dnamyheritage";
 import dnaliving from "@/components/General/dnaliving";
 import dnafamily from "@/components/General/dnafamily";
 import dname from "@/components/General/dname";
+import mate from "@/components/General/mate";
 
 import date from "@/components/General/date";
 
@@ -158,6 +160,7 @@ export default {
     dnaliving,
     dnafamily,
     dname,
+    mate,
     date,
   },
 };
