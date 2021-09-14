@@ -2,20 +2,25 @@
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
       <h1 class="text-2xl text-white">
-        Scotland Jewish Burial Society
+        Jewish Roots
       </h1>
 
       <g-image
         class="h-32 w-full object-fill"
-        src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1607355658/jewish-graves_rvakmw.jpg"
-        alt="image of scotish flag"
+        src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1631634709/bevismarks_dppitz.jpg"
+        alt="jewish r.a.f"
       />
       <br />
-      <p>Search Scotlands jewish burial records.</p>
-      <br /><br />
+
+      <p>
+        Sephardic Jewish<br /> family history.
+      </p>
+      <br />
+      
+
       <g-link
         class="text-white hover:text-yellow-500"
-        to="https://bit.ly/3dj94xt"
+        to="https://bit.ly/2YPZDjz"
       >
         More Info
       </g-link>
