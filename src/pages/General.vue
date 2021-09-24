@@ -40,6 +40,9 @@
         <div class="grid sm:flex">
           <jri />
           <roots />
+          <simcha />
+        </div>
+           <div class="grid sm:flex">
           <mate />
         </div>
 
@@ -116,6 +119,7 @@ import dnaliving from "@/components/General/dnaliving";
 import dnafamily from "@/components/General/dnafamily";
 import dname from "@/components/General/dname";
 import mate from "@/components/General/mate";
+import simcha from "@/components/General/simcha";
 
 import date from "@/components/General/date";
 
@@ -161,7 +165,9 @@ export default {
     dnafamily,
     dname,
     mate,
+    simcha,
     date,
+
   },
 };
 </script>
