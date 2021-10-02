@@ -40,6 +40,13 @@
         <div class="grid sm:flex">
           <fiftyone />
         </div>
+
+         <h2 class="ml-8 mt-3 sub-title">
+          Leicester
+        </h2>
+         <div class="grid sm:flex">
+           <gilroes />
+         </div>
         <h2 class="ml-8 mt-3 sub-title">
           Scotland
         </h2>
@@ -100,6 +107,7 @@ import scotish from "@/components/UK/Jewish/scotish";
 import glasgow from "@/components/UK/Jewish/glasgow";
 import raf from "@/components/UK/Jewish/raf";
 import roots from "@/components/UK/Jewish/roots";
+import gilroes from "@/components/UK/Jewish/gilroes";
 
 import adath from "@/components/UK/Jewish/Cemeteries/adath";
 import fed from "@/components/UK/Jewish/Cemeteries/fed";
@@ -139,6 +147,7 @@ export default {
     scotish,
     glasgow,
     raf,
+    gilroes,
     roots,
     dropdown,
     directory,
