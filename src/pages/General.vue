@@ -42,7 +42,7 @@
           <roots />
           <simcha />
         </div>
-           <div class="grid sm:flex">
+        <div class="grid sm:flex">
           <mate />
         </div>
 
@@ -56,10 +56,11 @@
         <div class="grid sm:flex">
           <dnaancestry />
           <dnafamily />
-          <dnaliving />
+          <gedmatch />
         </div>
 
         <div class="grid sm:flex">
+          <dnaliving />
           <dnamyheritage />
           <dname />
         </div>
@@ -120,6 +121,7 @@ import dnafamily from "@/components/General/dnafamily";
 import dname from "@/components/General/dname";
 import mate from "@/components/General/mate";
 import simcha from "@/components/General/simcha";
+import gedmatch from "@/components/General/gedmatch";
 
 import date from "@/components/General/date";
 
@@ -166,8 +168,8 @@ export default {
     dname,
     mate,
     simcha,
+    gedmatch,
     date,
-
   },
 };
 </script>
