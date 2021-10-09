@@ -51,21 +51,6 @@
         <br />
 
         <h1 class="ml-8 mt-3 sub-title">
-          DNA Testing
-        </h1>
-        <div class="grid sm:flex">
-          <dnaancestry />
-          <dnafamily />
-          <gedmatch />
-        </div>
-
-        <div class="grid sm:flex">
-          <dnaliving />
-          <dnamyheritage />
-          <dname />
-        </div>
-
-        <h1 class="ml-8 mt-3 sub-title">
           Resourses
         </h1>
 
@@ -161,14 +146,8 @@ export default {
     dropdown,
     translate,
     jri,
-    dnaancestry,
-    dnamyheritage,
-    dnaliving,
-    dnafamily,
-    dname,
     mate,
     simcha,
-    gedmatch,
     date,
   },
 };

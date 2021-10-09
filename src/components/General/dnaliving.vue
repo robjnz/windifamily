@@ -7,11 +7,11 @@
 
       <g-image
         class="h-32 w-full object-fill"
-        src="https://res.cloudinary.com/dzhbfdfa5/image/upload/v1629971073/dnaliving_t6eozb.jpg"
+        src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1629971073/dnaliving_t6eozb.jpg"
         alt="image of ancestry dna logo"
       />
       <br />
-      <p>Living <br />DNA Kits.</p>
+      <p>Living DNA Kits.</p>
       <br />
       <g-link
         class="text-white hover:text-yellow-500"
