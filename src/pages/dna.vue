@@ -45,12 +45,12 @@ import dropdown from "@/components/Dropdown/dropdown";
 
 export default {
   metaInfo: {
-    title: "General",
+    title: "DNA",
     meta: [
       {
         name: "description",
         content:
-          "Family history where to find records of birth death and marriages",
+          "Dna resourses and testing companies: ancestry, familytreedna, livingdna, myheritagedna, 23andmedna. Dna tools: DNA Painter and gedmatches",
       },
     ],
   },
