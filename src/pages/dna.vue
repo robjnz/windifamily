@@ -14,10 +14,11 @@
         <div class="grid sm:flex">
           <gedmatch />
           <dnaliving />
-          <dnamyheritage />
+          <illatrative />
         </div>
 
         <div class="grid sm:flex">
+           <dnamyheritage />
           <dname />
         </div>
 
@@ -40,6 +41,7 @@ import dnafamily from "@/components/General/dnafamily";
 import dname from "@/components/General/dname";
 import gedmatch from "@/components/General/gedmatch";
 import painter from "@/components/General/painter";
+import illatrative from "@/components/General/illatrative";
 
 import dropdown from "@/components/Dropdown/dropdown";
 
@@ -62,6 +64,7 @@ export default {
     dname,
     gedmatch,
     painter,
+    illatrative,
     dropdown,
   },
 };
