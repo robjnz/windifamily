@@ -8,11 +8,12 @@
 
         <div class="grid sm:flex">
           <burial />
+          <deed />
           <company />
-          <oneninetwo />
         </div>
 
         <div class="grid sm:flex">
+          <oneninetwo />
           <naturalization />
           <marriage />
         </div>
@@ -45,6 +46,8 @@ import oneninetwo from "@/components/Video/oneninetwo";
 import company from "@/components/Video/company";
 import genea from "@/components/Video/other/genea";
 import tv from "@/components/Video/other/tv";
+import deed from "@/components/Video/deed";
+
 import lisa from "@/components/Video/other/lisa";
 
 import dropdown from "@/components/Dropdown/dropdown";
@@ -71,6 +74,7 @@ export default {
     genea,
     tv,
     lisa,
+    deed,
   },
 };
 </script>
