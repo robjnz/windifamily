@@ -53,40 +53,6 @@
         >
           General
         </g-link>
-
-        <g-link
-          to="/australasia"
-          class="block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
-        >
-          Australasia
-        </g-link>
-
-        <g-link
-          to="/caribbean"
-          class="block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
-        >
-          Caribbean
-        </g-link>
-
-        <g-link
-          to="/europe"
-          class="block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
-        >
-          Europe
-        </g-link>
-
-        <g-link
-          to="/northamerica"
-          class="block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
-        >
-          North America
-        </g-link>
-        <g-link
-          to="/shoah"
-          class="block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
-        >
-          Shoah
-        </g-link>
       </div>
 
       <g-link
@@ -100,7 +66,6 @@
         to="/dna"
         class="block mt-4 mr-4 lg:inline-block lg:mt-0 text-gray-50 hover:text-purple-900 text-xl font-semibold"
       >
-
         DNA
       </g-link>
 
