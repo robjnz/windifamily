@@ -58,6 +58,11 @@
           >Ireland</g-link
         >
       </li>
+      <li class="rounded-sm px-3 py-1 hover:bg-gray-100">
+        <g-link class="text-blue-600 hover:text-yellow-600" to="/Jewish/italian"
+          >Italian</g-link
+        >
+      </li>
 
       <li class="rounded-sm px-3 py-1 hover:bg-gray-100">
         <g-link
