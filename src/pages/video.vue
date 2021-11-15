@@ -17,6 +17,10 @@
           <naturalization />
           <marriage />
         </div>
+
+        <div class="grid sm:flex">
+          <will />
+        </div>
         <br />
         <h1 class="ml-8 mt-3 sub-title">
           Youtube video makers to follow
@@ -47,6 +51,7 @@ import company from "@/components/Video/company";
 import genea from "@/components/Video/other/genea";
 import tv from "@/components/Video/other/tv";
 import deed from "@/components/Video/deed";
+import will from "@/components/Video/will";
 
 import lisa from "@/components/Video/other/lisa";
 
@@ -75,6 +80,7 @@ export default {
     tv,
     lisa,
     deed,
+    will,
   },
 };
 </script>

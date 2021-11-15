@@ -2,33 +2,18 @@
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
       <h1 class="text-2xl text-white">
-        Will and Probate
+        How to get a <br />copy of a Uk will <br />and letter of probate.
       </h1>
 
-      <g-image
+      <iframe
         class="h-32 w-full object-fill"
-        src="@/images/europe/wills.jpg"
-        alt="image of a will"
-      />
-      <br />
-      <p>Will and Probate records <br />from 1858 to present Day.</p>
-      <br />
-
-       <iframe
-        class="h-32 w-full object-fill"
-        title="companies house records"
+        title="burial jewish London uk"
         src="https://www.youtube.com/embed/LOFKGhsCyHg"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
       ></iframe>
       <br />
-      <g-link
-        class="text-white hover:text-yellow-500"
-        to="http://bit.ly/2GfeWTV"
-      >
-        More Info
-      </g-link>
     </div>
   </div>
 </template>
