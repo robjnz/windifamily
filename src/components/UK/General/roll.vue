@@ -38,7 +38,7 @@
         class="text-white hover:text-yellow-500"
         to="http://bit.ly/2FPDJAN"
       >
-        Open Website
+        Go to The Website
       </g-link>
     </div>
   </div>

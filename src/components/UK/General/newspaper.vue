@@ -20,7 +20,7 @@
         class="text-white hover:text-yellow-500"
         to="http://bit.ly/2IeM6t0"
       >
-        More Info
+        Go to The Website
       </g-link>
     </div>
   </div>

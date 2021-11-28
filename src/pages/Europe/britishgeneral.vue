@@ -33,11 +33,12 @@
         </div>
 
         <div class="grid sm:flex">
+          <navy />
           <state />
           <war />
-          <wills />
         </div>
         <div class="grid sm:flex">
+          <wills />
           <workhouse />
           <thirtynine />
         </div>
@@ -85,6 +86,7 @@ import workhouse from "@/components/UK/General/workhouse";
 import children from "@/components/UK/General/children";
 import industral from "@/components/UK/General/industral";
 import scotland from "@/components/UK/General/scotland";
+import navy from "@/components/UK/General/navy";
 
 import dropdown from "@/components/Dropdown/dropdown";
 
@@ -115,6 +117,7 @@ export default {
     children,
     industral,
     scotland,
+    navy,
     dropdown,
   },
 };

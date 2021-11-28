@@ -19,6 +19,7 @@
         </div>
 
         <div class="grid sm:flex">
+          <raf />
           <will />
         </div>
         <br />
@@ -52,6 +53,7 @@ import genea from "@/components/Video/other/genea";
 import tv from "@/components/Video/other/tv";
 import deed from "@/components/Video/deed";
 import will from "@/components/Video/will";
+import raf from "@/components/Video/raf";
 
 import lisa from "@/components/Video/other/lisa";
 
@@ -81,6 +83,7 @@ export default {
     lisa,
     deed,
     will,
+    raf,
   },
 };
 </script>

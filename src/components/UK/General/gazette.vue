@@ -18,11 +18,10 @@
         Naturalization and name changes.
       </p>
       <br />
-
       <iframe
         class="h-32 w-full object-fill"
         title="companies house records"
-        src="https://www.youtube.com/embed/8KpE5f4kXdk"
+        src="https://www.youtube.com/embed/8KpE5f4kXdk?list=PLGkUcTHzrGYZQxB7QRlMSh0hrmooeM2Gl"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
@@ -32,7 +31,7 @@
         class="text-white hover:text-yellow-500"
         to="http://bit.ly/2Kio1On"
       >
-        More Info
+        Go To the Website
       </g-link>
     </div>
   </div>
