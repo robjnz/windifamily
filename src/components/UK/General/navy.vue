@@ -8,7 +8,7 @@
       <g-image
         class="h-32 w-full object-fill"
         src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1638113854/HMS_Dreadnought_gdupqt.jpg"
-        alt="royal navy hns drednought gphoto"
+        alt="royal navy hns drednought photo"
       />
       <br />
       <p>First world war lives at sea<br />search the sailors war records.</p>

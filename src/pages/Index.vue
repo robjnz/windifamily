@@ -9,8 +9,7 @@
         
         <div class="content">
           <p class="text-gray-800 text-3xl">
-            Researching your family history, what information is out there and
-            where to find them.
+            Informing you on what information is available and where to find them.
           </p>
 
           <br />
