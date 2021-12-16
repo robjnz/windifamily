@@ -51,7 +51,7 @@ import dropdown from "@/components/Dropdown/dropdown";
 
 export default {
   metaInfo: {
-    title: "British",
+    title: "French",
     meta: [
       {
         name: "description",
